@@ -21,7 +21,7 @@ body {
 
 .container {
     margin: 3em auto;
-    max-width: 400px;
+    max-width: 380px;
 }
 
 .img {
@@ -32,7 +32,7 @@ body {
 }
 
 .box {
-    padding: 2.5em 3em;
+    padding: 2.5em;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
 }
@@ -111,6 +111,16 @@ svg {
     margin-right: 0.5em;
 }
 
+.attribution { 
+    font-size: 12px; 
+    text-align: center; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+
 @media screen and (max-width: 420px) {
     .container {
         max-width: 350px;
@@ -124,7 +134,7 @@ svg {
 @media screen and (min-width: 750px) {
     .container {
         display: flex;
-        max-width: 700px;
+        max-width: 650px;
         margin: 10em auto;
     }
 
@@ -136,8 +146,12 @@ svg {
     }
 
     .box {
-        max-width: 350px;
+        max-width: 300px;
         border-radius: 0 8px 8px 0;
-        
+        padding: 2.5em 2em;
+    }
+
+    .old-price {
+        margin-left: 2em;
     }
 }
