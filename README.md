@@ -12,7 +12,6 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -26,17 +25,17 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Product-Preview-Card-Component/blob/main/Mobile%20Preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Product-Preview-Card-Component/blob/main/Desktop%20Preview.PNG)
 
 
 ### Links
 
- - Source code: [https://github.com/romila2003/Order-Summary-Component](https://github.com/romila2003/Order-Summary-Component)
- - Live website: [https://frontend-order-summary-component.netlify.app/](https://frontend-order-summary-component.netlify.app/)
+ - Source code: [https://github.com/romila2003/Product-Preview-Card-Component](https://github.com/romila2003/Product-Preview-Card-Component)
+ - Live website: [https://frontend-product-preview-card-component.netlify.app/](https://frontend-product-preview-card-component.netlify.app/)
 
 ## My process
 
